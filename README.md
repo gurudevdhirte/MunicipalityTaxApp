@@ -112,28 +112,3 @@ Assumptions:
 -------------
 
 User will enter a single Municipality Name and date for getting the tax rate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
