@@ -1,0 +1,8 @@
+California|Yearly|2016.01.01|2016.12.31|0.2|0.123
+California|Yearly|2016.01.01|2016.12.31|0.2 
+California|Monthly|2016.05.01|2016.05.31|0.4 
+California|Daily|2016.01.01|2016.01.01|0.1 
+California|Daily|2016.12.25|2016.12.25|0.1 
+California|Biweekly|2016.12.25|2016.12.25|0.25
+California|Weekly|2016.04.01|2016.04.07|0.3
+Copenhagen|Weekly|2016.04.01|2016.04.07|0.35
